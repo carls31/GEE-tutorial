@@ -19,6 +19,3 @@ Don't forget to give the project a star! Thanks again!
 4. Push to the Branch (`git push origin feature/new`)
 5. Open a Pull Request
 
-
-  git commit --amend -m "Co-authored-by: AngelicaIseni angelicaiseni21@gmail.com"
-  git merge --squash edit -m "Squash merged"
